@@ -1,0 +1,40 @@
+{
+    "bugs": {
+        "url": "https://github.com/ilmtest/text-utils/issues"
+    },
+    "copyright": "(C) 2020 IlmTest. All Rights Reserved.",
+    "name": "text-utils",
+    "version": "1.0.0",
+    "description": "Javascript Utilities to format text",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "github.com:ilmtest/text-utils.git"
+    },
+    "keywords": [
+        "es6",
+        "javascript",
+        "arabic",
+        "english",
+        "formatting",
+        "format",
+        "islam",
+        "islamic"
+    ],
+    "author": "ilmtest",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^6.8.0",
+        "eslint-config-airbnb-base": "^14.1.0",
+        "eslint-config-prettier": "^6.10.1",
+        "eslint-plugin-import": "^2.20.1",
+        "jest": "^25.2.3"
+    },
+    "dependencies": {
+        "eslint-plugin-prettier": "^3.1.2",
+        "prettier": "^2.0.2"
+    }
+}
