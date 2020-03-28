@@ -3,16 +3,16 @@
         "url": "https://github.com/ilmtest/text-utils/issues"
     },
     "copyright": "(C) 2020 IlmTest. All Rights Reserved.",
-    "name": "text-utils",
-    "version": "1.0.0",
-    "description": "Javascript Utilities to format text",
+    "name": "@ilmtest/text-utils",
+    "version": "1.0.1",
+    "description": "Javascript utilities to format text",
     "main": "index.js",
     "scripts": {
         "test": "jest"
     },
     "repository": {
         "type": "git",
-        "url": "github.com:ilmtest/text-utils.git"
+        "url": "https://github.com/ilmtest/text-utils.git"
     },
     "keywords": [
         "es6",
